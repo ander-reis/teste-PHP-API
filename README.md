@@ -8,6 +8,7 @@ obs: criei banco de dados com sqlite, assim não é necessário cria banco mysql
  - copiar arquivo .env.example e renomear para .env
  - run composer install
  - run php artisan key:generate
+ - touch database/database.sqlite
  - run php artisan migrate --seed
  - run npm install
  - run npm run dev

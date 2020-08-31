@@ -1,9 +1,8 @@
 <template>
     <div>
         <div class="pb-6">
-            <v-btn color="primary" elevation="5" @click="create">Cadastrar Notícia</v-btn>
+            <v-btn color="primary" elevation="5" @click="create">Cadastrar Produto</v-btn>
         </div>
-
         <v-data-table
             :headers="headers"
             :items="desserts"
