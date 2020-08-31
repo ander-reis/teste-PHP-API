@@ -201,9 +201,6 @@ export default {
                 })
                 .catch(function (error) {
                     this.loading = false;
-                })
-                .finally(function() {
-                    this.loading = false;
                 });
         },
         modal(event, item) {

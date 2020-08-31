@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d86a7caa-cdb0-43f9-9194-15a496cf8485" name="Default Changelist" comment="">
+    <list default="true" id="d86a7caa-cdb0-43f9-9194-15a496cf8485" name="Default Changelist" comment="correções">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Api/ProductController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Api/ProductController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/js/components/ProductsComponent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/components/ProductsComponent.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -176,8 +177,16 @@
       <workItem from="1598800620649" duration="8783000" />
       <workItem from="1598811204007" duration="497000" />
       <workItem from="1598811809684" duration="1519000" />
-      <workItem from="1598838663849" duration="528000" />
+      <workItem from="1598838663849" duration="1534000" />
     </task>
+    <task id="LOCAL-00001" summary="correções">
+      <created>1598839239210</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598839239210</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TerminalProjectNonSharedOptionsProvider">
@@ -185,6 +194,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="correções" />
+    <option name="LAST_COMMIT_MESSAGE" value="correções" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598812083521">
@@ -195,6 +208,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="275" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598805664320" />
+    <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1598840151359">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1598840151359" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1598808103264">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -227,10 +244,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598719919543" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1598839196663">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1598839242989">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1598839196663" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1598839242989" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1598735637061">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

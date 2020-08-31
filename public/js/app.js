@@ -2209,7 +2209,6 @@ function _asyncToGenerator(fn) { return function () { var self = this, args = ar
 //
 //
 //
-//
 
 
 /* harmony default export */ __webpack_exports__["default"] = ({
@@ -2318,7 +2317,7 @@ function _asyncToGenerator(fn) { return function () { var self = this, args = ar
         _this.desserts = _this.products;
         _this.loading = false;
       })["catch"](function (error) {
-        console.log(error);
+        this.loading = false;
       });
     },
     modal: function modal(event, item) {
@@ -32679,7 +32678,7 @@ var render = function() {
               attrs: { color: "primary", elevation: "5" },
               on: { click: _vm.create }
             },
-            [_vm._v("Cadastrar Notícia")]
+            [_vm._v("Cadastrar Produto")]
           )
         ],
         1
@@ -94787,8 +94786,8 @@ var router = new vue_router__WEBPACK_IMPORTED_MODULE_1__["default"]({
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! D:\www\TestePHP-API\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! D:\www\TestePHP-API\resources\sass\app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! D:\www\teste-PHP-API\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! D:\www\teste-PHP-API\resources\sass\app.scss */"./resources/sass/app.scss");
 
 
 /***/ })
